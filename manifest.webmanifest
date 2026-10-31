@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "TGAT1 English Studio v22",
+  "short_name": "TGAT1 Studio",
+  "description": "TGAT1 English Studio v22: additional language, vocabulary-label, offline-cache and accessibility corrections.",
+  "lang": "th",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e8f2ff",
+  "theme_color": "#0758c8",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
